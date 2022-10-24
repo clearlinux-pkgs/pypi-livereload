@@ -4,7 +4,7 @@
 #
 Name     : pypi-livereload
 Version  : 2.6.3
-Release  : 10
+Release  : 11
 URL      : https://files.pythonhosted.org/packages/bd/60/6640b819e858562ef6684abac60593b7369fe0a8a064df426d3ab0ab894d/livereload-2.6.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/bd/60/6640b819e858562ef6684abac60593b7369fe0a8a064df426d3ab0ab894d/livereload-2.6.3.tar.gz
 Summary  : Python LiveReload is an awesome tool for web developers
